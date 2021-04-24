@@ -2,9 +2,9 @@ import Card from './Card';
 
 // Accept props & destructuring
 const CardList = ({ robots }) => {
-    if(true){
-        throw new Error('Noo');
-    }
+    // if(true){
+    //     throw new Error('Noo');
+    // }
     
     return(
         <div>
